@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <title>Windows 8 APIs for .NET Core</title>
-        <id>Target.WindowsRuntime</id>
+        <id>Target.Windows</id>
         <version>8.1.0</version>
         <authors>James Ko</authors>
         <projectUrl>http://github.com/jamesqo/Target.Windows</projectUrl>
