@@ -16,7 +16,7 @@ Just add this to your `project.json` file:
 
 ```json
 "frameworks": {
-    "netcore45": {
+    "win80": {
         "Target.Windows": "8.0.0"
     }
 }
@@ -25,7 +25,7 @@ Just add this to your `project.json` file:
 Want to target Windows 8.1? Bump the version:
 
 ```json
-"netcore451": {
+"win81": {
     "Target.Windows": "8.1.0"
 }
 ```
