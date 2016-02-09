@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <title>Windows 8 APIs for .NET Core</title>
+        <id>Target.WindowsRuntime</id>
+        <version>8.1.0</version>
+        <authors>James Ko</authors>
+        <projectUrl>http://github.com/jamesqo/Target.Windows</projectUrl>
+        <licenseUrl>http://github.com/jamesqo/Target.Windows/blob/master/LICENSE</licenseUrl>
+        <iconUrl>http://i.imgur.com/5dzr6Wi.png</iconUrl>
+        <description>
+        Writing a .NET Core library? Want to use native Windows 8 APIs? This package is for you.
+        </description>
+        <tags>.net dotnet core uwp windows 10 runtime ui xaml api apis library dnx cli dnu dnvm native winrt app 8 8.1</tags>
+    </metadata>
+    <files>
+        <file src="Windows.winmd" target="lib\win81"/>
+    </files>
+</package>
