@@ -32,6 +32,24 @@ Want to target Windows 8.1? Bump the version:
 }
 ```
 
+That's it! Then, you can write something like:
+
+```csharp
+using System;
+using System.Collections.Generic;
+using Windows.UI.Xaml;
+
+public class MyApp : Application
+{
+    public MyApp()
+    {
+        Console.WriteLine("Hello, world!");
+    }
+}
+```
+
+and have it compile.
+
 ## Related Projects
 
 - [Target.WindowsPhone](http://github.com/jamesqo/Target.WindowsPhone) - use Windows Phone APIs from .NET Core
