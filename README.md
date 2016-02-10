@@ -32,6 +32,11 @@ Want to target Windows 8.1? Bump the version:
 }
 ```
 
+## Related Projects
+
+- [Target.WindowsPhone](http://github.com/jamesqo/Target.WindowsPhone) - use Windows Phone APIs from .NET Core
+- [Target.WindowsRuntime](http://github.com/jamesqo/Target.WindowsRuntime) - use Universal 8.1 APIs from .NET Core
+
 ## License
 
 [MIT](LICENSE)
