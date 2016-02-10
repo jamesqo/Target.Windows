@@ -1,5 +1,7 @@
 # Windows 8 APIs for .NET Core
 
+<img src="http://i.imgur.com/5dzr6Wi.png" width="30%"/>
+
 ## What is this?
 
 If you're:
